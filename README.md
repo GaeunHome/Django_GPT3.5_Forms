@@ -11,3 +11,6 @@
 <p>2. 需填入個人API KEY與system之prompt。</p>
 <p>3. system、user的關係可參照OpenAI的Playground。</p>
 <p>4. 回傳response.choices[0].message.content，即GPT3.5的回答。</p>
+
+<h4>備註</h4>
+<p>docker-composr.yml、requirements.txt尚未應用</p>
