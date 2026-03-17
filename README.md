@@ -4,8 +4,6 @@
 [![Django](https://img.shields.io/badge/Django-Framework-092E20)](https://www.djangoproject.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991)](https://openai.com/)
 
-112學年度第1學期 [MI652L]「資訊管理專題」 - 簡易GPT3.5模型回應輸出
-
 ## 專案描述
 
 透過 Django 表單輸入內容，呼叫 OpenAI GPT-3.5 模型產生回應並輸出至頁面。
